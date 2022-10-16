@@ -1,0 +1,3 @@
+mixin Funcionario {
+  double? horas; 
+}
